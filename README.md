@@ -11,3 +11,5 @@ In this project
 3) Determine how many users have discussed the topic 'test'
 4) Analyze variation of this discussion on different dates and its frequency
 5) Plot this in a bar graph
+6) Identify any abnormal occurrence in the plot and analyzed data
+7) Determine the reason for the anomaly
