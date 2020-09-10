@@ -13,3 +13,6 @@ In this project
 5) Plot this in a bar graph
 6) Identify any abnormal occurrence in the plot and analyzed data
 7) Determine the reason for the anomaly
+
+## Future Project:
+1) Implement case count of fatality rate
