@@ -2,7 +2,8 @@
 Analysis of covid related tweets and identifying the number of times the word 'test' has been used by the users and its frequency over time.
 
 ## Documentation
-This dataset has been imported from Kaggle: https://www.kaggle.com/gpreda/covid19-tweets
+This dataset has been imported from Kaggle: https://www.kaggle.com/gpreda/covid19-tweets <br>
+Dataset contains Twitter based data whith various details like person name, ID, comments, timestamp, etc. 
 
 ## Steps:
 In this project
