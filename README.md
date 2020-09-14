@@ -1,5 +1,5 @@
 # CovidTweetAnalysis
-Analysis of covid related tweets and identifying the number of times the word 'test' has been used by the users and its frequency over time.
+Analysis of Covid-19 related tweets and identifying the number of times the word 'test' has been used by the users and its frequency over time.
 
 ## Documentation
 This dataset has been imported from Kaggle: https://www.kaggle.com/gpreda/covid19-tweets <br>
